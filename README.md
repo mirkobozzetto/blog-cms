@@ -1,4 +1,5 @@
-29:17 / 2:31:33
+39:51 / 2:31:33
+Sanity: Create a project
 https://www.youtube.com/watch?v=yAqgjSZ0PqY&t=1757s
 
 ## Getting Started
